@@ -1,0 +1,542 @@
+modules/openapi-generator/src/main/resources/Java/libraries/microprofile/enumClass.mustache
+  h_8d0f094ade234d 15,18
+modules/openapi-generator/src/main/resources/Java/modelInnerEnum.mustache
+  h_8d0f094ade234d 26
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf-cdi/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf-ext/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/client/libraries/mp/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/client/libraries/se/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/server/libraries/mp/enumClass.mustache
+  h_8d0f094ade234d 4
+modules/openapi-generator/src/test/resources/3_0/java/petstore-with-fake-endpoints-models-for-testing-okhttp-gson.yaml
+  h_8d0f094ade234d 684-691,1550-1561
+modules/openapi-generator/src/test/resources/3_0/petstore-with-fake-endpoints-models-for-testing.yaml
+  h_8d0f094ade234d 713-729,1437-1455
+samples/client/petstore/crystal/src/petstore/api/fake.cr
+  h_8d0f094ade234d 150,156
+samples/client/petstore/crystal/src/petstore/models/order.cr
+  h_8d0f094ade234d 36-43,45-46,50,60-65,75
+samples/client/petstore/java-helidon-client/v3/mp/docs/FakeApi.md
+  h_8d0f094ade234d 529,549-550
+samples/client/petstore/java-helidon-client/v3/mp/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java-helidon-client/v3/mp/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 155
+samples/client/petstore/java-helidon-client/v3/mp/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 81,104
+samples/client/petstore/java-helidon-client/v3/mp/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 20,64-115,236-275,291-292
+samples/client/petstore/java-helidon-client/v3/se/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java-helidon-client/v3/se/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java-helidon-client/v3/se/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 123-124,127
+samples/client/petstore/java-helidon-client/v3/se/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 684-686,702-703,706,747-748,751,755-756
+samples/client/petstore/java-helidon-client/v3/se/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 81,104
+samples/client/petstore/java-helidon-client/v3/se/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 20,64-115,236-275,291-292
+samples/client/petstore/java-helidon-client/v4/mp/docs/FakeApi.md
+  h_8d0f094ade234d 529,549-550
+samples/client/petstore/java-helidon-client/v4/mp/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java-helidon-client/v4/mp/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 156
+samples/client/petstore/java-helidon-client/v4/mp/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 81,104
+samples/client/petstore/java-helidon-client/v4/mp/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 20,64-115,236-275,291-292
+samples/client/petstore/java-helidon-client/v4/se/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java-helidon-client/v4/se/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java-helidon-client/v4/se/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 124-125,128
+samples/client/petstore/java-helidon-client/v4/se/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 686-688,704-705,708,749-750,753,757-758
+samples/client/petstore/java-helidon-client/v4/se/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 81,104
+samples/client/petstore/java-helidon-client/v4/se/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 20,64-115,236-275,291-292
+samples/client/petstore/java/apache-httpclient-jackson3/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/apache-httpclient-jackson3/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/apache-httpclient-jackson3/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1138-1139,1142-1143,1159-1160,1164,1195-1198
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 139,141,178,180
+samples/client/petstore/java/apache-httpclient-jackson3/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 22,39-41,106-183,337-386,402-404,409,422-423,528-547
+samples/client/petstore/java/apache-httpclient/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/apache-httpclient/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/apache-httpclient/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1138-1139,1142-1143,1159-1160,1164,1195-1198
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 139,141,178,180
+samples/client/petstore/java/apache-httpclient/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,40-42,107-184,338-387,403-405,410,423-424,529-548
+samples/client/petstore/java/feign-hc5/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 573-574,584,599-600,610,625-626,645,656-657,676
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/feign-hc5/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,341-392,407-409,414,427-428
+samples/client/petstore/java/feign-no-nullable/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 131,133,170,172
+samples/client/petstore/java/feign/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 573-574,584,599-600,610,625-626,645,656-657,676
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/feign/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,341-392,407-409,414,427-428
+samples/client/petstore/java/google-api-client/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 126,128,165,167
+samples/client/petstore/java/jersey2-java8-localdatetime/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/jersey3-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/jersey3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/docs/FakeApi.md
+  h_8d0f094ade234d 985,1016-1017,1019,1046-1047
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 168
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 121,157
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 26,37-39,103-180,326-373,398-399
+samples/client/petstore/java/microprofile-rest-client-3.0/docs/FakeApi.md
+  h_8d0f094ade234d 985,1016-1017,1019,1046-1047
+samples/client/petstore/java/microprofile-rest-client-3.0/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/microprofile-rest-client-3.0/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 168
+samples/client/petstore/java/microprofile-rest-client-3.0/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 135,180
+samples/client/petstore/java/microprofile-rest-client-3.0/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 19,102-197,319-358,373-375,380,397-398
+samples/client/petstore/java/microprofile-rest-client/docs/FakeApi.md
+  h_8d0f094ade234d 985,1016-1017,1019,1046-1047
+samples/client/petstore/java/microprofile-rest-client/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/microprofile-rest-client/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 168
+samples/client/petstore/java/microprofile-rest-client/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 132,177
+samples/client/petstore/java/microprofile-rest-client/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 19,99-194,316-355,370-372,377,394-395
+samples/client/petstore/java/native-async/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 142,144,181,183,220,222
+samples/client/petstore/java/native-jackson3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 140,142,179,181,218,220
+samples/client/petstore/java/native/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,183,185,222,224
+samples/client/petstore/java/okhttp-gson/api/openapi.yaml
+  h_8d0f094ade234d 1602,1627-1638,3131-3138
+samples/client/petstore/java/okhttp-gson/docs/AllOfModelArrayAnyOfAllOfAttributesC.md
+  h_8d0f094ade234d 20,34-42
+samples/client/petstore/java/okhttp-gson/docs/FakeApi.md
+  h_8d0f094ade234d 1045,1074,1076,1100
+samples/client/petstore/java/okhttp-gson/docs/Order.md
+  h_8d0f094ade234d 16,30-38
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 2230,2242,2275-2278,2325-2326,2341,2351-2352,2366,2377-2378,2393,2405,2407
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/model/AllOfModelArrayAnyOfAllOfAttributesC.java
+  h_8d0f094ade234d 23
+samples/client/petstore/java/okhttp-gson/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,140-196,313-331,392-393,399,412,432,458-461
+samples/client/petstore/java/rest-assured-jackson/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 129,131,168,170
+samples/client/petstore/java/rest-assured/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 147,149,199,201
+samples/client/petstore/java/restclient-swagger2/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/restclient-swagger2/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/restclient-swagger2/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1178-1179,1182,1206-1209,1238-1239,1242,1244,1261-1262,1265,1267,1284-1285,1289-1290
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 138,140,177,179
+samples/client/petstore/java/restclient-swagger2/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 24,39-41,106-183,343-394,410-412,417,430-431
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1627-1628,1632,1642-1643,1718-1733,1751-1753,1758,1774-1775,1798,1810,1823,1840-1841,1844,1868-1871,1900-1901,1904,1906,1923-1924,1927,1929,1946-1947,1951-1952
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,38-40,105-182,336-385,401-403,408,421-422
+samples/client/petstore/java/restclient-useSingleRequestParameter/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/restclient-useSingleRequestParameter/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/restclient-useSingleRequestParameter/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1275,1286,1298,1311,1328-1329,1332,1356-1359,1388-1389,1392,1394,1411-1412,1415,1417,1434-1435,1439-1440
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,38-40,105-182,336-385,401-403,408,421-422
+samples/client/petstore/java/restclient/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/restclient/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/restclient/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1178-1179,1182,1206-1209,1238-1239,1242,1244,1261-1262,1265,1267,1284-1285,1289-1290
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/restclient/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,38-40,105-182,336-385,401-403,408,421-422
+samples/client/petstore/java/resteasy/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/resteasy/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/resteasy/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 695-696,699,727-730
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/resteasy/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/resttemplate-withXml/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/resttemplate-withXml/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/resttemplate-withXml/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 776-777,780-781,798-799,803,828-831
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 159,162,203,206
+samples/client/petstore/java/resttemplate-withXml/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,42-44,124-211,377-430,446-448,453,466-467
+samples/client/petstore/java/resttemplate/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/resttemplate/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/resttemplate/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 776-777,780-781,798-799,803,828-831
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/resttemplate/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,38-40,105-182,189,196-197,350-399,415-417,422,435-436,485-492,532-534
+samples/client/petstore/java/retrofit2-play26/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 128,130,167,169
+samples/client/petstore/java/retrofit2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/retrofit2rx2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/retrofit2rx3/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 144,146,196,198
+samples/client/petstore/java/vertx-no-nullable/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 126,128,165,167
+samples/client/petstore/java/vertx-supportVertxFuture/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/vertx-supportVertxFuture/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/vertx-supportVertxFuture/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 253,255,257,261,263,265
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 775-776,779-780,795-796,800,829-830
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/api/rxjava/FakeApi.java
+  h_8d0f094ade234d 795-796,799-800,815-816,820-821,836-837,840,843,860-861,865,868
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx-supportVertxFuture/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/vertx/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/vertx/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/vertx/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 83,85
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 775-776,779-780,795-796,800,829-830
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/api/rxjava/FakeApi.java
+  h_8d0f094ade234d 795-796,799-800,815-816,820-821,836-837,840,843,860-861,865,868
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/vertx5-supportVertxFuture/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/vertx5-supportVertxFuture/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/vertx5-supportVertxFuture/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 253,255,257,261,263,265
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 775-776,779-780,795-796,800,829-830
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/api/rxjava/FakeApi.java
+  h_8d0f094ade234d 725-726,729-730,745-746,750-751,766-767,770-771,787-788,792,794
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx5-supportVertxFuture/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/vertx5/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/vertx5/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/vertx5/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 83,85
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/api/FakeApiImpl.java
+  h_8d0f094ade234d 775-776,779-780,795-796,800,829-830
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/api/rxjava/FakeApi.java
+  h_8d0f094ade234d 725-726,729-730,745-746,750-751,766-767,770-771,787-788,792,794
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/vertx5/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/webclient-jakarta/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/webclient-jakarta/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/webclient-jakarta/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1180-1181,1184,1208-1211,1240-1241,1244,1246,1263-1264,1267,1269,1286-1287,1291-1292
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient-jakarta/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/webclient-swagger2/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/webclient-swagger2/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/webclient-swagger2/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1180-1181,1184,1208-1211,1240-1241,1244,1246,1263-1264,1267,1269,1286-1287,1291-1292
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 137,139,176,178
+samples/client/petstore/java/webclient-swagger2/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 24,38-40,105-182,342-393,409-411,416,429-430
+samples/client/petstore/java/webclient-useSingleRequestParameter/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/webclient-useSingleRequestParameter/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/webclient-useSingleRequestParameter/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1632-1633,1637,1647-1648,1723-1738,1756-1758,1763,1779-1780,1803,1815,1828,1846-1847,1850,1874-1877,1906-1907,1910,1912,1929-1930,1933,1935,1952-1953,1957-1958
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/java/webclient/api/openapi.yaml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/client/petstore/java/webclient/docs/FakeApi.md
+  h_8d0f094ade234d 979,1010-1011,1013,1039-1040
+samples/client/petstore/java/webclient/docs/Order.md
+  h_8d0f094ade234d 16-17,31-48
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/api/FakeApi.java
+  h_8d0f094ade234d 1180-1181,1184,1208-1211,1240-1241,1244,1246,1263-1264,1267,1269,1286-1287,1291-1292
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 136,138,175,177
+samples/client/petstore/java/webclient/src/main/java/org/openapitools/client/model/Order.java
+  h_8d0f094ade234d 23,37-39,104-181,335-384,400-402,407,420-421
+samples/client/petstore/ocaml-fake-petstore/src/apis/fake_api.ml
+  h_8d0f094ade234d 524,584-589
+samples/client/petstore/ocaml-fake-petstore/src/apis/fake_api.mli
+  h_8d0f094ade234d 22
+samples/client/petstore/ocaml-fake-petstore/src/models/order.ml
+  h_8d0f094ade234d 49-63,72-73
+samples/client/petstore/ocaml-fake-petstore/src/support/enums.ml
+  h_8d0f094ade234d 30-52,141-164
+samples/client/petstore/ruby-autoload/docs/FakeApi.md
+  h_8d0f094ade234d 986-988,1030-1031
+samples/client/petstore/ruby-autoload/docs/Order.md
+  h_8d0f094ade234d 13-14,27-29
+samples/client/petstore/ruby-autoload/lib/petstore/api/fake_api.rb
+  h_8d0f094ade234d 1027-1028,1047-1048,1086-1093,1119-1120
+samples/client/petstore/ruby-autoload/lib/petstore/models/order.rb
+  h_8d0f094ade234d 31-36,67-69,91-93,144-153,170-173,187-206,217-219,231
+samples/client/petstore/typescript-fetch/builds/default-v3.0/apis/FakeApi.ts
+  h_8d0f094ade234d 257-264,1160-1167,1734-1752
+samples/client/petstore/typescript-fetch/builds/default-v3.0/docs/FakeApi.md
+  h_8d0f094ade234d 1008,1046-1049,1078-1079
+samples/client/petstore/typescript-fetch/builds/default-v3.0/docs/Order.md
+  h_8d0f094ade234d 15-16,31-32
+samples/client/petstore/typescript-fetch/builds/default-v3.0/models/Order.ts
+  h_8d0f094ade234d 46-53,67-84,109-110,131-132
+samples/client/petstore/typescript-fetch/builds/kebab-case/apis/fake-api.ts
+  h_8d0f094ade234d 257-264,1160-1167,1734-1752
+samples/client/petstore/typescript-fetch/builds/kebab-case/docs/FakeApi.md
+  h_8d0f094ade234d 1008,1046-1049,1078-1079
+samples/client/petstore/typescript-fetch/builds/kebab-case/docs/Order.md
+  h_8d0f094ade234d 15-16,31-32
+samples/client/petstore/typescript-fetch/builds/kebab-case/models/order.ts
+  h_8d0f094ade234d 46-53,67-84,109-110,131-132
+samples/openapi3/client/petstore/java/jersey2-java8/src/main/java/org/openapitools/client/model/EnumTest.java
+  h_8d0f094ade234d 142,144,181,183,220,222
+samples/schema/petstore/mysql/Model/Order.sql
+  h_8d0f094ade234d 10,15,20
+samples/schema/petstore/mysql/mysql_schema.sql
+  h_8d0f094ade234d 355-357
+samples/server/petstore/cpp-restbed/generated/3_0/api/FakeApi.cpp
+  h_8d0f094ade234d 1697-1698,1724,1822,1824
+samples/server/petstore/cpp-restbed/generated/3_0/api/FakeApi.h
+  h_8d0f094ade234d 851-852,873
+samples/server/petstore/cpp-restbed/generated/3_0/model/Order.cpp
+  h_8d0f094ade234d 73,86-87,164-201
+samples/server/petstore/cpp-restbed/generated/3_0/model/Order.h
+  h_8d0f094ade234d 97-108,116-117
+samples/server/petstore/java-helidon-server/v3/mp/src/main/java/org/openapitools/server/api/FakeService.java
+  h_8d0f094ade234d 121
+samples/server/petstore/java-helidon-server/v3/mp/src/main/java/org/openapitools/server/api/FakeServiceImpl.java
+  h_8d0f094ade234d 152
+samples/server/petstore/java-helidon-server/v3/mp/src/main/java/org/openapitools/server/model/EnumTest.java
+  h_8d0f094ade234d 134,183
+samples/server/petstore/java-helidon-server/v3/mp/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 17,92-195,316-355,371-372
+samples/server/petstore/java-helidon-server/v3/mp/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-helidon-server/v3/se/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 5,59-134,151-152,160-162,170-171,248-271,286-287
+samples/server/petstore/java-helidon-server/v3/se/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-helidon-server/v4/mp/src/main/java/org/openapitools/server/api/FakeService.java
+  h_8d0f094ade234d 122
+samples/server/petstore/java-helidon-server/v4/mp/src/main/java/org/openapitools/server/api/FakeServiceImpl.java
+  h_8d0f094ade234d 153
+samples/server/petstore/java-helidon-server/v4/mp/src/main/java/org/openapitools/server/model/EnumTest.java
+  h_8d0f094ade234d 134,183
+samples/server/petstore/java-helidon-server/v4/mp/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 17,92-195,316-355,371-372
+samples/server/petstore/java-helidon-server/v4/mp/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-helidon-server/v4/se-uac-group-by-file-path/src/main/java/org/openapitools/server/api/FakeService.java
+  h_8d0f094ade234d 685-692,704-706,723-724,735-737,3000-3040
+samples/server/petstore/java-helidon-server/v4/se-uac-group-by-file-path/src/main/java/org/openapitools/server/api/FakeServiceImpl.java
+  h_8d0f094ade234d 168-170
+samples/server/petstore/java-helidon-server/v4/se-uac-group-by-file-path/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 5,59-134,151-152,160-162,170-171,248-271,286-287
+samples/server/petstore/java-helidon-server/v4/se-uac-group-by-file-path/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-helidon-server/v4/se-uac/src/main/java/org/openapitools/server/api/FakeService.java
+  h_8d0f094ade234d 681-688,700-702,719-720,731-733,2948-2988
+samples/server/petstore/java-helidon-server/v4/se-uac/src/main/java/org/openapitools/server/api/FakeServiceImpl.java
+  h_8d0f094ade234d 166-168
+samples/server/petstore/java-helidon-server/v4/se-uac/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 5,59-134,151-152,160-162,170-171,248-271,286-287
+samples/server/petstore/java-helidon-server/v4/se-uac/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-helidon-server/v4/se/src/main/java/org/openapitools/server/model/Order.java
+  h_8d0f094ade234d 5,59-134,151-152,160-162,170-171,248-271,286-287
+samples/server/petstore/java-helidon-server/v4/se/src/main/resources/META-INF/openapi.yml
+  h_8d0f094ade234d 1445-1446,1470-1488,2241-2257
+samples/server/petstore/java-wiremock/src/main/java/org/openapitools/mockserver/api/FakeApiMockServer.java
+  h_8d0f094ade234d 577,604-609,620,647-652,663,690-695
+samples/server/petstore/java-wiremock/src/main/java/org/openapitools/mockserver/api/StoreApiMockServer.java
+  h_8d0f094ade234d 138,141,190,193,197
+samples/server/petstore/jaxrs-cxf/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 91,127
+samples/server/petstore/jaxrs-jersey/src/gen/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 255,257
+samples/server/petstore/jaxrs-jersey/src/gen/java/org/openapitools/api/FakeApiService.java
+  h_8d0f094ade234d 49
+samples/server/petstore/jaxrs-jersey/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 22,37-39,104-181,302-341,357-359,364,378-379
+samples/server/petstore/jaxrs-jersey/src/main/java/org/openapitools/api/impl/FakeApiServiceImpl.java
+  h_8d0f094ade234d 105
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 126,174
+samples/server/petstore/jaxrs-spec-enum/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 77
+samples/server/petstore/jaxrs-spec-jakarta/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 122,170
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 329
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 124,172
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 3,75-170,179-180,301-340,356-358,363,377-378,416-417,446-453
+samples/server/petstore/jaxrs-spec-quarkus-mutiny/src/main/resources/META-INF/openapi.yaml
+  h_8d0f094ade234d 1535-1536,1560-1578,2331-2347
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 126,174
+samples/server/petstore/jaxrs-spec-swagger-annotations/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 77
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 125,173
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations-jakarta/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 76
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 125,173
+samples/server/petstore/jaxrs-spec-swagger-v3-annotations/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 76
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 145,195
+samples/server/petstore/jaxrs-spec-withxml/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 94
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/EnumTest.java
+  h_8d0f094ade234d 126,174
+samples/server/petstore/jaxrs-spec/src/gen/java/org/openapitools/model/FakeTestsDefaultsDefaultResponse.java
+  h_8d0f094ade234d 77
+samples/server/petstore/jaxrs/jersey3/src/gen/java/org/openapitools/api/FakeApi.java
+  h_8d0f094ade234d 264,266
+samples/server/petstore/jaxrs/jersey3/src/gen/java/org/openapitools/api/FakeApiService.java
+  h_8d0f094ade234d 49
+samples/server/petstore/jaxrs/jersey3/src/gen/java/org/openapitools/model/Order.java
+  h_8d0f094ade234d 21,36-38,103-180,301-340,356-358,363,377-378
+samples/server/petstore/jaxrs/jersey3/src/main/java/org/openapitools/api/impl/FakeApiServiceImpl.java
+  h_8d0f094ade234d 105
+samples/server/petstore/php-lumen/lib/app/Http/Controllers/FakeApi.php
+  h_8d0f094ade234d 186-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7a786c37666ffe64a04b381197219766001a7a48",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
