@@ -1,0 +1,60 @@
+docs/generators/cpp-boost-beast-client.md
+  h_8d0f094ade234d 22-25,28-33,45,47-48,50,69-70,185,187-188,190-192,234,236-238,249,256-261
+docs/generators/go-gin-server.md
+  h_8d0f094ade234d 24
+docs/generators/go.md
+  h_8d0f094ade234d 34
+docs/generators/java-camel.md
+  h_8d0f094ade234d 34,67-70,88-89,112,135,155,162-163
+docs/generators/java-vertx-web.md
+  h_8d0f094ade234d 54
+docs/generators/jaxrs-cxf-cdi.md
+  h_8d0f094ade234d 50
+docs/generators/jaxrs-spec.md
+  h_8d0f094ade234d 51
+docs/generators/kotlin-spring.md
+  h_8d0f094ade234d 36-39,49-50,94,101-103
+docs/generators/kotlin.md
+  h_8d0f094ade234d 35,53,59
+docs/generators/php-dt.md
+  h_8d0f094ade234d 110-111,129,138,153
+docs/generators/php-flight.md
+  h_8d0f094ade234d 112-113,131,140,155
+docs/generators/php-laravel.md
+  h_8d0f094ade234d 113-114,132,141,156
+docs/generators/php-lumen.md
+  h_8d0f094ade234d 111-112,130,139,154
+docs/generators/php-mezzio-ph.md
+  h_8d0f094ade234d 110-111,129,138,153
+docs/generators/php-nextgen.md
+  h_8d0f094ade234d 113-114,132,141,156
+docs/generators/php-slim4.md
+  h_8d0f094ade234d 112-113,131,140,155
+docs/generators/php.md
+  h_8d0f094ade234d 113-114,132,141,156
+docs/generators/python-pydantic-v1.md
+  h_8d0f094ade234d 27
+docs/generators/python.md
+  h_8d0f094ade234d 30,104-105,115-130,145-147
+docs/generators/scala-sttp4-jsoniter.md
+  h_8d0f094ade234d 26
+docs/generators/spring.md
+  h_8d0f094ade234d 34,60-63,81-82,105,128,148,155-156
+docs/generators/typescript-angular.md
+  h_8d0f094ade234d 14,37
+docs/generators/typescript-axios.md
+  h_8d0f094ade234d 23
+docs/generators/typescript-fetch.md
+  h_8d0f094ade234d 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4e1abb85861d0d4fc98e7e251b4726e5600164f6",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
