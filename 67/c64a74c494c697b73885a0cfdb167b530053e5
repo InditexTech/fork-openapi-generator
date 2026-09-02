@@ -1,0 +1,16 @@
+samples/client/petstore/java/okhttp-gson/.openapi-generator/FILES
+  h_8d0f094ade234d 280
+samples/client/petstore/java/okhttp-gson/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 26,30,122-134,282-283,353-365
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "67c64a74c494c697b73885a0cfdb167b530053e5",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
