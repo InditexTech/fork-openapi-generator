@@ -1,0 +1,14 @@
+samples/client/petstore/crystal/shard.yml
+  h_8d0f094ade234d 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "81e82ab36b517951945b8a5deda506a349d00da6",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
