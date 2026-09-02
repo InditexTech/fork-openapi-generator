@@ -1,0 +1,32 @@
+modules/openapi-generator/src/main/resources/Java/libraries/microprofile/enumClass.mustache
+  h_8d0f094ade234d 15,18
+modules/openapi-generator/src/main/resources/Java/modelInnerEnum.mustache
+  h_8d0f094ade234d 26
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf-cdi/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf-ext/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/cxf/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/JavaJaxRS/spec/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/client/libraries/mp/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/client/libraries/se/enumClass.mustache
+  h_8d0f094ade234d 8
+modules/openapi-generator/src/main/resources/java-helidon/server/libraries/mp/enumClass.mustache
+  h_8d0f094ade234d 4
+samples/client/petstore/crystal/shard.yml
+  h_8d0f094ade234d 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bca631adf9c98b09b6a2f84342f238dacccca734",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
