@@ -1,0 +1,116 @@
+samples/client/petstore/java-helidon-client/v3/mp/.openapi-generator/FILES
+  h_8d0f094ade234d 121
+samples/client/petstore/java-helidon-client/v3/mp/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,232
+samples/client/petstore/java-helidon-client/v3/se/.openapi-generator/FILES
+  h_8d0f094ade234d 130
+samples/client/petstore/java-helidon-client/v3/se/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,371-374,377
+samples/client/petstore/java-helidon-client/v4/mp/.openapi-generator/FILES
+  h_8d0f094ade234d 121
+samples/client/petstore/java-helidon-client/v4/mp/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,233
+samples/client/petstore/java-helidon-client/v4/se/.openapi-generator/FILES
+  h_8d0f094ade234d 130
+samples/client/petstore/java-helidon-client/v4/se/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,371-374,377
+samples/client/petstore/java/apache-httpclient-jackson3/.openapi-generator/FILES
+  h_8d0f094ade234d 149
+samples/client/petstore/java/apache-httpclient-jackson3/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 270-272
+samples/client/petstore/java/apache-httpclient/.openapi-generator/FILES
+  h_8d0f094ade234d 149
+samples/client/petstore/java/apache-httpclient/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 270-272
+samples/client/petstore/java/feign-hc5/.openapi-generator/FILES
+  h_8d0f094ade234d 94
+samples/client/petstore/java/feign-hc5/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 303-305,324-325,332
+samples/client/petstore/java/feign/.openapi-generator/FILES
+  h_8d0f094ade234d 94
+samples/client/petstore/java/feign/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 303-305,324-325,332
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/.openapi-generator/FILES
+  h_8d0f094ade234d 122
+samples/client/petstore/java/microprofile-rest-client-3.0-jackson/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,306-308
+samples/client/petstore/java/microprofile-rest-client-3.0/.openapi-generator/FILES
+  h_8d0f094ade234d 119
+samples/client/petstore/java/microprofile-rest-client-3.0/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,306-308
+samples/client/petstore/java/microprofile-rest-client/.openapi-generator/FILES
+  h_8d0f094ade234d 119
+samples/client/petstore/java/microprofile-rest-client/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 1,309-311
+samples/client/petstore/java/restclient-swagger2/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/restclient-swagger2/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 261-263,371
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/restclient-useSingleRequestParameter-static/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 261-263,371
+samples/client/petstore/java/restclient-useSingleRequestParameter/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/restclient-useSingleRequestParameter/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 261-263,371
+samples/client/petstore/java/restclient/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/restclient/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 261-263,371
+samples/client/petstore/java/resteasy/.openapi-generator/FILES
+  h_8d0f094ade234d 149
+samples/client/petstore/java/resteasy/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 321-325
+samples/client/petstore/java/resttemplate-withXml/.openapi-generator/FILES
+  h_8d0f094ade234d 145
+samples/client/petstore/java/resttemplate-withXml/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 322-323,325
+samples/client/petstore/java/resttemplate/.openapi-generator/FILES
+  h_8d0f094ade234d 145
+samples/client/petstore/java/resttemplate/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 322-323,325
+samples/client/petstore/java/vertx-supportVertxFuture/.openapi-generator/FILES
+  h_8d0f094ade234d 162
+samples/client/petstore/java/vertx-supportVertxFuture/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 309-311
+samples/client/petstore/java/vertx/.openapi-generator/FILES
+  h_8d0f094ade234d 162
+samples/client/petstore/java/vertx/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 309-311
+samples/client/petstore/java/vertx5-supportVertxFuture/.openapi-generator/FILES
+  h_8d0f094ade234d 162
+samples/client/petstore/java/vertx5-supportVertxFuture/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 309-311
+samples/client/petstore/java/vertx5/.openapi-generator/FILES
+  h_8d0f094ade234d 162
+samples/client/petstore/java/vertx5/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 309-311
+samples/client/petstore/java/webclient-jakarta/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/webclient-jakarta/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 277-279
+samples/client/petstore/java/webclient-swagger2/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/webclient-swagger2/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 277-279
+samples/client/petstore/java/webclient-useSingleRequestParameter/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/webclient-useSingleRequestParameter/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 277-279
+samples/client/petstore/java/webclient/.openapi-generator/FILES
+  h_8d0f094ade234d 146
+samples/client/petstore/java/webclient/src/test/java/org/openapitools/client/api/FakeApiTest.java
+  h_8d0f094ade234d 277-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c7eb5cf9bac4a29bf37af7e8f82d7ac126cc6409",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
