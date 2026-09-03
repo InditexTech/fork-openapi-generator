@@ -1,0 +1,204 @@
+.github/workflows/samples-elixir.yaml
+  h_8d0f094ade234d 7,11,22
+.gitignore
+  h_8d0f094ade234d 260-262,320
+bin/configs/elixir-req.yaml
+  h_8d0f094ade234d 1-14
+docs/generators/elixir.md
+  h_8d0f094ade234d 27
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/ElixirClientCodegen.java
+  h_8d0f094ade234d 59-60,241-259,299-314,318-319,746,803,813,817-828,832-852
+modules/openapi-generator/src/main/resources/elixir/README.md.mustache
+  h_8d0f094ade234d 43-56
+modules/openapi-generator/src/main/resources/elixir/api.mustache
+  h_8d0f094ade234d 38
+modules/openapi-generator/src/main/resources/elixir/libraries/req/api.mustache
+  h_8d0f094ade234d 1-87
+modules/openapi-generator/src/main/resources/elixir/libraries/req/connection.ex.mustache
+  h_8d0f094ade234d 1-195
+modules/openapi-generator/src/main/resources/elixir/libraries/req/request_builder.ex.mustache
+  h_8d0f094ade234d 1-472
+modules/openapi-generator/src/test/java/org/openapitools/codegen/elixir/ElixirClientCodegenTest.java
+  h_8d0f094ade234d 1-127
+modules/openapi-generator/src/test/java/org/openapitools/codegen/elixir/ElixirClientOptionsTest.java
+  h_8d0f094ade234d 46,48
+modules/openapi-generator/src/test/java/org/openapitools/codegen/options/ElixirClientOptionsProvider.java
+  h_8d0f094ade234d 29,51
+samples/client/petstore/elixir-req/.formatter.exs
+  h_8d0f094ade234d 1-3
+samples/client/petstore/elixir-req/.gitignore
+  h_8d0f094ade234d 1-23
+samples/client/petstore/elixir-req/.openapi-generator-ignore
+  h_8d0f094ade234d 1-23
+samples/client/petstore/elixir-req/.openapi-generator/FILES
+  h_8d0f094ade234d 1-68
+samples/client/petstore/elixir-req/.openapi-generator/VERSION
+  h_8d0f094ade234d 1
+samples/client/petstore/elixir-req/README.md
+  h_8d0f094ade234d 1-59
+samples/client/petstore/elixir-req/config/config.exs
+  h_8d0f094ade234d 1-15
+samples/client/petstore/elixir-req/config/runtime.exs
+  h_8d0f094ade234d 1-12
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/another_fake.ex
+  h_8d0f094ade234d 1-43
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/default.ex
+  h_8d0f094ade234d 1-39
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/fake.ex
+  h_8d0f094ade234d 1-928
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/fake_classname_tags123.ex
+  h_8d0f094ade234d 1-43
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/pet.ex
+  h_8d0f094ade234d 1-336
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/store.ex
+  h_8d0f094ade234d 1-139
+samples/client/petstore/elixir-req/lib/openapi_petstore/api/user.ex
+  h_8d0f094ade234d 1-271
+samples/client/petstore/elixir-req/lib/openapi_petstore/connection.ex
+  h_8d0f094ade234d 1-171
+samples/client/petstore/elixir-req/lib/openapi_petstore/deserializer.ex
+  h_8d0f094ade234d 1-116
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/_foo_get_default_response.ex
+  h_8d0f094ade234d 1-25
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/_special_model_name_.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/additional_properties_class.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/all_of_with_single_ref.ex
+  h_8d0f094ade234d 1-27
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/animal.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/any.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/api_response.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/array_of_array_of_number_only.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/array_of_number_only.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/array_test.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/capitalization.ex
+  h_8d0f094ade234d 1-32
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/cat.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/category.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/child_with_nullable.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/class_model.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/client.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/deprecated_model.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/dog.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/enum_arrays.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/enum_class.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/enum_test.ex
+  h_8d0f094ade234d 1-42
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/fake_big_decimal_map_200_response.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/file.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/file_schema_test_class.ex
+  h_8d0f094ade234d 1-28
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/foo.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/format_test.ex
+  h_8d0f094ade234d 1-52
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/has_only_read_only.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/health_check_result.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/list.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/map_test.ex
+  h_8d0f094ade234d 1-28
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/mixed_properties_and_additional_properties_class.ex
+  h_8d0f094ade234d 1-29
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/model_200_response.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/name.ex
+  h_8d0f094ade234d 1-28
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/nullable_class.ex
+  h_8d0f094ade234d 1-44
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/number_only.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/object_with_deprecated_fields.ex
+  h_8d0f094ade234d 1-31
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/order.ex
+  h_8d0f094ade234d 1-32
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_composite.ex
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_enum.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_enum_default_value.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_enum_integer.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_enum_integer_default_value.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/outer_object_with_enum_property.ex
+  h_8d0f094ade234d 1-25
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/parent_with_nullable.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/pet.ex
+  h_8d0f094ade234d 1-36
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/read_only_first.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/return.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/single_ref_type.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/tag.ex
+  h_8d0f094ade234d 1-24
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/test_inline_freeform_additional_properties_request.ex
+  h_8d0f094ade234d 1-22
+samples/client/petstore/elixir-req/lib/openapi_petstore/model/user.ex
+  h_8d0f094ade234d 1-36
+samples/client/petstore/elixir-req/lib/openapi_petstore/request_builder.ex
+  h_8d0f094ade234d 1-474
+samples/client/petstore/elixir-req/mix.exs
+  h_8d0f094ade234d 1-50
+samples/client/petstore/elixir-req/test/any_test.exs
+  h_8d0f094ade234d 1-14
+samples/client/petstore/elixir-req/test/deserializer_test.exs
+  h_8d0f094ade234d 1-49
+samples/client/petstore/elixir-req/test/format_test.exs
+  h_8d0f094ade234d 1-84
+samples/client/petstore/elixir-req/test/mixed_properties_and_additional_properties_class_test.exs
+  h_8d0f094ade234d 1-46
+samples/client/petstore/elixir-req/test/outer_enum_test.exs
+  h_8d0f094ade234d 1-27
+samples/client/petstore/elixir-req/test/pet_test.exs
+  h_8d0f094ade234d 1-84
+samples/client/petstore/elixir-req/test/request_builder_test.exs
+  h_8d0f094ade234d 1-261
+samples/client/petstore/elixir-req/test/store_test.exs
+  h_8d0f094ade234d 1-26
+samples/client/petstore/elixir-req/test/test_helper.exs
+  h_8d0f094ade234d 1
+samples/client/petstore/elixir/lib/openapi_petstore/api/fake.ex
+  h_8d0f094ade234d 21,135,138,171,174,241,244,276,279,342,345,373,376,403,406,433,436,463,466,539,542,596,599,645,648,685,688,716,719,747,750,779,782,811,814,847,850,889,892
+samples/client/petstore/elixir/lib/openapi_petstore/api/pet.ex
+  h_8d0f094ade234d 24,27,57,60,93,96,125,128,157,160,189,192,225,228
+samples/client/petstore/elixir/lib/openapi_petstore/api/store.ex
+  h_8d0f094ade234d 24,27,54,84,87,116,119
+samples/client/petstore/elixir/lib/openapi_petstore/api/user.ex
+  h_8d0f094ade234d 24,27,55,58,86,89,117,120,148,151,181,184,213,216,244,247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dcd811b9e8ea6ef3078b70b299a27f6e541b4f34",
+  "prompts": {},
+  "humans": {
+    "h_8d0f094ade234d": {
+      "author": "Jorge <jorgerma@ext.inditex.com>"
+    }
+  }
+}
